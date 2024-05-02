@@ -1,0 +1,50 @@
+.header-navbar{
+    font-family:      Palladio, URW Palladio, Aroal, cursive;
+    font-size:        medium;
+
+    background-color: #090908;
+    color: #ffffff;
+    border:           1px dotted #ffffff;
+    padding:          10px 10px 30px 10px;
+}
+.header-navbar h1{
+    font-size: 50px;
+}
+.header-navbar img{
+    width: 12%;
+    float: left;
+}
+.navigator{
+    float: right;
+    height: 100%;
+}
+.navigator a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 1px 20px;
+    background-color: #090908;
+    color: white;
+}
+.navigator a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 10px;
+    color: #ffffff;
+}
+.navigator a:hover{
+    /*background-color: gray;*/
+    color: #22e713;
+}
+img {
+    display: block;
+    width:  30%;
+    float: left;
+
+}
+/*embed{*/
+/*    display: inline;*/
+/*    width: 100%;*/
+/*    height: 100%;*/
+/*     border:           1px dotted #090908;*/
+/*}*/
